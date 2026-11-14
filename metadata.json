@@ -1,0 +1,6 @@
+{
+  "name": "Vibe Blueprint",
+  "description": "A step-by-step Google AI Studio prompt and visual design blueprint builder for scoping apps from websites, apps, and games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
